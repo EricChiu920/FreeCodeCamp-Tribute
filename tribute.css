@@ -1,0 +1,16 @@
+body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  width: 100%;
+  background: #fff4dd;
+}
+
+img {
+  width: 900px;
+}
+
+.container {
+  padding-top: 2em;
+  margin-left: 2em;
+}
